@@ -1,2 +1,8 @@
 # Dark And Light
-**Dark and light mode only with html and css .**
+
+** Short description :**
+
+- This project is only with Html and css .
+
+## Screenshots of the demo
+---
