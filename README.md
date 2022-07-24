@@ -1,6 +1,6 @@
 # Dark And Light
 
-** Short description :**
+**Short description :**
 
 - This project is only with Html and css .
 
